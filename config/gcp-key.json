@@ -1,0 +1,10 @@
+{
+  "type": "service_account",
+  "project_id": "drifttransitap-prod",
+  "private_key_id": "98261185f19a35a5984515b1607407eff9284cdb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgSaJCB3jhOaYlwQv9\noGVUSX3cad/i7LdjwzS4GGYHGlmhRANCAASjcahFNIUHb4Y1Qu/KDcSKuYpCQ6sS\ndDXQUyjIFiisIB+6kjfqw21sOoqgPlvt2iJg6Cke0+T43Arz1C06ZxAy\n-----END PRIVATE KEY-----\n",
+  "client_email": "etl-runner@drifttransitap-prod.iam.gserviceaccount.com",
+  "client_id": "120230016313258687768",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token"
+}
